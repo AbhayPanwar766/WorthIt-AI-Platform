@@ -1,5 +1,15 @@
 # WorthIt — AI-Powered Creator & Brand Collaboration Platform
 
+**Developed by:** Team BruteMinds
+
+**Project:** WorthIt
+
+**Technologies:** HTML, CSS, JavaScript, Gemini API, YouTube Data API, Netlify
+
+
+Live demo: worthit-bruteminds.netlify.app 
+Source code: https://github.com/AbhayPanwar766/WorthIt-AI-Platform
+
 ## Project Overview
 
 WorthIt is a web-based platform designed to connect content creators
@@ -25,22 +35,43 @@ assistant using Google's Gemini API.
 - Earnings Estimation
 - Responsive User Interface
 
+## 📸 Project Screenshots
+
+### 🎨 Creator Dashboard
+
+The Creator Dashboard allows content creators to manage their profiles,
+explore collaboration opportunities, and access AI-powered tools.
+
+![WorthIt Creator Dashboard](screenshots/creator-dashboard.png)
+
+### 🏢 Brand Dashboard
+
+The Brand Dashboard helps brands discover creators, explore campaign
+opportunities, and manage collaborations.
+
+![WorthIt Brand Dashboard](screenshots/brand-dashboard.png)
+
+
 ## Technologies Used
 
 ### Frontend
+
 - HTML5
 - CSS3
 - JavaScript
 
 ### Backend
+
 - Netlify Serverless Functions
 - JavaScript
 
 ### APIs
+
 - Google Gemini API
 - YouTube Data API v3
 
 ### Deployment
+
 - Netlify
 
 ## Project Structure
