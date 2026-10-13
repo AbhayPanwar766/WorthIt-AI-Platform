@@ -35,23 +35,6 @@ assistant using Google's Gemini API.
 - Earnings Estimation
 - Responsive User Interface
 
-## 📸 Project Screenshots
-
-### 🎨 Creator Dashboard
-
-The Creator Dashboard allows content creators to manage their profiles,
-explore collaboration opportunities, and access AI-powered tools.
-
-![WorthIt Creator Dashboard](screenshots/creator-dashboard.png)
-
-### 🏢 Brand Dashboard
-
-The Brand Dashboard helps brands discover creators, explore campaign
-opportunities, and manage collaborations.
-
-![WorthIt Brand Dashboard](screenshots/brand-dashboard.png)
-
-
 ## Technologies Used
 
 ### Frontend
