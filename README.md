@@ -8,6 +8,7 @@
 
 
 Live demo: worthit-bruteminds.netlify.app 
+
 Source code: https://github.com/AbhayPanwar766/WorthIt-AI-Platform
 
 ## Project Overview
