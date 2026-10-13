@@ -7,7 +7,7 @@
 **Technologies:** HTML, CSS, JavaScript, Gemini API, YouTube Data API, Netlify
 
 
-Live demo: worthit-bruteminds.netlify.app 
+Live demo: https://worthit-bruteminds.netlify.app/ 
 
 Source code: https://github.com/AbhayPanwar766/WorthIt-AI-Platform
 
