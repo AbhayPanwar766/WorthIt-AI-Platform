@@ -6,9 +6,13 @@
 
 **Technologies:** HTML, CSS, JavaScript, Gemini API, YouTube Data API, Netlify
 
+<<<<<<< Updated upstream
 
 Live demo: https://worthit-bruteminds.netlify.app/ 
 
+=======
+Live demo: worthit-bruteminds.netlify.app
+>>>>>>> Stashed changes
 Source code: https://github.com/AbhayPanwar766/WorthIt-AI-Platform
 
 ## Project Overview
@@ -20,7 +24,10 @@ The platform provides creator profiles, brand dashboards, campaign
 management tools, YouTube channel integration, and an AI-powered
 assistant using Google's Gemini API.
 
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
 ## Features
 
 - Creator Dashboard
@@ -33,6 +40,25 @@ assistant using Google's Gemini API.
 - Earnings Estimation
 - Responsive User Interface
 
+<<<<<<< Updated upstream
+=======
+## 📸 Project Screenshots
+
+### 🎨 Creator Dashboard
+
+The Creator Dashboard allows content creators to manage their profiles,
+explore collaboration opportunities, and access AI-powered tools.
+
+![WorthIt Creator Dashboard](screenshots/creator-dashboard.png)
+
+### 🏢 Brand Dashboard
+
+The Brand Dashboard helps brands discover creators, explore campaign
+opportunities, and manage collaborations.
+
+![WorthIt Brand Dashboard](screenshots/brand-dashboard.png)
+
+>>>>>>> Stashed changes
 ## Technologies Used
 
 ### Frontend
