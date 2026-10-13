@@ -21,9 +21,6 @@ management tools, YouTube channel integration, and an AI-powered
 assistant using Google's Gemini API.
 
 
-**Live demo:** worthit-bruteminds.netlify.app
-**Source code:** https://github.com/AbhayPanwar766/WorthIt-AI-Platform
-
 ## Features
 
 - Creator Dashboard
